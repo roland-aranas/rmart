@@ -1,0 +1,80 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face{
+  font-family: 'REM';
+  src: url('/Users/rolandaranas/Desktop/reddit mart/Reddit-Mart-website/reddit-mart/src/fonts/REM/static/REM-Medium.ttf');
+}
+
+.card {
+  border:1px;
+  border-color:#e4e4e7;
+  border-style:solid;
+  width:420px;
+  font-family: 'REM',sans-serif;
+  height:auto px;
+  padding:20px;
+  border-radius:10px;
+  margin:10px;
+}
+
+.Title{
+  text-align:center;
+  text-overflow:ellipsis;
+  white-space: normal;
+  overflow: hidden;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient:vertical;
+  display:-webkit-box;
+  font-family: 'REM';
+}
+
+.image{
+  width:100%;
+  height:auto;
+  margin-left: auto;
+  margin-right:auto;
+  object-fit: cover;
+  border-radius: 10px 10px 0px 0px;
+  height:175px;
+}
+
+.flex-container{
+  display: flex;
+  flex-wrap: wrap;
+  padding:125px;
+}
+
+.flex-item {
+  flex: 1;
+}
+
+.video{
+  width:100%;
+  height:auto;
+  margin-left: auto;
+  margin-right:auto;
+  object-fit: cover;
+  border-radius: 10px 10px 0px 0px;
+  height:175px;
+}
+
+.postTime{
+  text-align: right;
+  color:#73737c;
+}
+
+.titleInfo{
+  font-family: 'REM';
+}
