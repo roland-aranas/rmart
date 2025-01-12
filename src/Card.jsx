@@ -53,8 +53,7 @@ function Card({data,index}){
         <div className="card">
             {mediaElement}
             <h2 className="Title"><a href={data[index][1]} target="_blank" rel="noopener noreferrer">{data[index][0]}</a></h2>
-            {/* <button className="showMore" onClick={showMoreTitle}>Show more</button> */}
-            <p>{data[index][2]}</p>
+            <p className="subredditCard">&nbsp;{data[index][2]}&nbsp;</p>
             <p className="postTime">{time}</p>
             <p className="price">{data[index][5]}</p>
         </div>
