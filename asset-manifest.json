@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/rmart/static/css/main.a2a26c85.css",
-    "main.js": "/rmart/static/js/main.9358135f.js",
+    "main.js": "/rmart/static/js/main.6854c135.js",
     "static/js/488.00c95cb1.chunk.js": "/rmart/static/js/488.00c95cb1.chunk.js",
     "static/media/REM-Medium.ttf": "/rmart/static/media/REM-Medium.68040dae107f104dd0ec.ttf",
     "index.html": "/rmart/index.html",
     "main.a2a26c85.css.map": "/rmart/static/css/main.a2a26c85.css.map",
-    "main.9358135f.js.map": "/rmart/static/js/main.9358135f.js.map",
+    "main.6854c135.js.map": "/rmart/static/js/main.6854c135.js.map",
     "488.00c95cb1.chunk.js.map": "/rmart/static/js/488.00c95cb1.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.a2a26c85.css",
-    "static/js/main.9358135f.js"
+    "static/js/main.6854c135.js"
   ]
 }
