@@ -1,0 +1,40 @@
+.whyCard {
+    height: 150px;
+    background-color: #ffffff;
+    border-radius: 10px;
+    width: 425px;
+    border: 1px solid #e4e4e7;
+    box-shadow: 5px;
+    padding:30px;
+    margin:20px;
+  }
+  
+  .whyCard.whyDirect {
+    background-color: #ffffff;
+  }
+  
+.Truck{
+    height:45px;
+    margin-left:-125px;
+  }
+
+.payPal{
+    margin-top:-10px;
+    height:47px;
+}
+
+.Shield{
+    margin-top:-10px;
+    height:47px;
+}
+  
+.whyTitle {
+    margin-top:-20px;
+    font-size: 20px;
+    margin-bottom: 10px;
+    
+}
+  
+.whyParagraph {
+    font-size: 1rem;
+}
