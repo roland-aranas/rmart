@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/rmart/static/css/main.01bb14f2.css",
-    "main.js": "/rmart/static/js/main.24fdf4e0.js",
+    "main.css": "/rmart/static/css/main.f6ee2829.css",
+    "main.js": "/rmart/static/js/main.b6cf9370.js",
     "static/js/488.00c95cb1.chunk.js": "/rmart/static/js/488.00c95cb1.chunk.js",
     "static/media/REM-Medium.ttf": "/rmart/static/media/REM-Medium.68040dae107f104dd0ec.ttf",
     "static/media/paypal.svg": "/rmart/static/media/paypal.f3f3d7a00fbb3a4eaccd98e425a95472.svg",
     "static/media/shield.svg": "/rmart/static/media/shield.fd311da166a1ee258f07ba5a0b56b5a6.svg",
     "static/media/shipping-fast.svg": "/rmart/static/media/shipping-fast.9d7b393883b659829a75584863e85719.svg",
     "index.html": "/rmart/index.html",
-    "main.01bb14f2.css.map": "/rmart/static/css/main.01bb14f2.css.map",
-    "main.24fdf4e0.js.map": "/rmart/static/js/main.24fdf4e0.js.map",
+    "main.f6ee2829.css.map": "/rmart/static/css/main.f6ee2829.css.map",
+    "main.b6cf9370.js.map": "/rmart/static/js/main.b6cf9370.js.map",
     "488.00c95cb1.chunk.js.map": "/rmart/static/js/488.00c95cb1.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.01bb14f2.css",
-    "static/js/main.24fdf4e0.js"
+    "static/css/main.f6ee2829.css",
+    "static/js/main.b6cf9370.js"
   ]
 }
