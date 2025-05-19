@@ -1,5 +1,7 @@
 # Reddit mart
 
+SITE DOES NOT WORK RIGHT NOW
+
 https://roland-aranas.github.io/rmart/
 
 Compiles posts from exchange subreddits and displays them, providing a smoother shopping experience on reddit! pls let me know of any errors
